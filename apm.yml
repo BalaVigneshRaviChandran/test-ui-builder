@@ -7,7 +7,4 @@ description: Generates production-ready webpages powered by Syncfusion React Com
 author: Syncfusion Inc
 dependencies:
   apm:
-    - syncfusion/react-ui-components-skills
-    - syncfusion/docx-editor-sdk-skills/skills/syncfusion-react-docx-editor
-    - syncfusion/pdf-viewer-sdk-skills/skills/syncfusion-react-pdf-viewer
-    - syncfusion/spreadsheet-editor-sdk-skills/skills/syncfusion-react-spreadsheet-editor
+    - BalaVigneshRaviChandran/skill-testing
